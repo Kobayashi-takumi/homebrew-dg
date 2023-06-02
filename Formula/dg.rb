@@ -1,4 +1,4 @@
-class Mysqlpinger < Formula
+class Dg < Formula
   desc "Dancing Gopher"
   homepage "https://github.com/Kobayashi-takumi/dancing-gopher"
   url "https://github.com/Kobayashi-takumi/dancing-gopher/releases/download/v0.1.0/dg-0.1.0-aarch64-apple-darwin.tar.gz"
