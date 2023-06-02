@@ -1,9 +1,9 @@
 class Dg < Formula
   desc "Dancing Gopher"
   homepage "https://github.com/Kobayashi-takumi/dancing-gopher"
-  url "https://github.com/Kobayashi-takumi/dancing-gopher/releases/download/v0.1.0/dg-0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "49581df9d2512265ad291d963f352fd51941b6cd09cbe8e81863c172a32139c8"
-  version "0.1.0"
+  url "https://github.com/Kobayashi-takumi/dancing-gopher/releases/download/v0.2.0/dg-0.2.0-aarch64-apple-darwin.tar.gz"
+  sha256 "953580ee54ab750f90703a79f6a6edbec575c3fb23dc6bd64034723c51289f13"
+  version "0.2.0"
 
   def install
     bin.install "dg"
